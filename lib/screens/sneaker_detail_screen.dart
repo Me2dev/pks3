@@ -19,7 +19,7 @@ class SneakerDetailScreen extends StatelessWidget {
           children: [
             Image.asset(
               sneaker.imagePath,
-              height: 200,
+              height: 250,
               width: double.infinity,
               fit: BoxFit.cover,
             ),
