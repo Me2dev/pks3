@@ -27,7 +27,7 @@ class SneakerCard extends StatelessWidget {
                 borderRadius: BorderRadius.circular(8),
                 child: Image.asset(
                   sneaker.imagePath,
-                  height: 150,
+                  height: 250,
                   width: double.infinity,
                   fit: BoxFit.cover,
                 ),
